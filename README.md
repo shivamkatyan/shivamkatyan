@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I've been working in web development for the last 4 years. I have strong expertise in web development using angular. I started as a java developer but at the start of my career I found the front end to be more exciting and Started working on UI, I learned HTML, CSS, JS, and Angular. On the go, I also worked for a few months in the backend as a full stack developer utilizing java sprint boot to create APIs as required by the applications. Later on, I also worked on Adobe XD to create mockups and wireframes as well as design improvements in the UX. I have worked on two enterprise projects in the financial and industrial training domain.
 
-* 🌍  I'm based in Ghaziabad
+* 🌍  I'm based in Delhi
 * ✉️  You can contact me at [Shivamkatyansk@gmail.com](mailto:Shivamkatyansk@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting projects
